@@ -13,14 +13,6 @@
     <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
   </a>
   &emsp;
-  <a href="https://buymeacoffee.com/puf17640">
-    <img src="https://img.icons8.com/ios-glyphs/256/808080/coffee.png" width="30px"/>
-  </a> 
-  &emsp;
-  <a href="https://pufler.dev">
-    <img src="https://img.icons8.com/material/256/808080/globe--v1.png" width="28px"/>
-  </a>
-  &emsp;
   <a href="https://linkedin.com/in/metantonio">
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
@@ -35,11 +27,5 @@
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/metantonio?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/metantonio?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/metantonio?style=flat-square&color=black&logo=github&a=0">
-  </a>
+
 </p>
