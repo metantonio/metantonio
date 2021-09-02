@@ -20,9 +20,6 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=metantonio.visitor-badge)
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/metantonio?style=flat-square&color=black&logo=github&a=0">
   </a>
   <a href="https://github.com/metantonio?tab=repositories">
