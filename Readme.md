@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://dev.to/metantonio">
-    <img src="https://svgur.com/i/TKs.svg" width="24px"/>
-  </a>
-  &emsp;
   <a href= "https://instagram.com/metantonio">
     <img src="https://badges.aleen42.com/src/instagram.svg"/>
   </a>
