@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/metantonio">
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+  <a href="https://www.youtube.com/channel/metantonio">
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/metantonio/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
   <br><br>
   <strong>Check out my work below!</strong>
