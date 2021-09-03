@@ -19,11 +19,11 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://badges.pufler.dev">
+  <a href="https://github.com/metantonio">
     <img src="https://badges.pufler.dev/years/metantonio?style=flat-square&color=black&logo=github&a=0">
   </a>
-<a href="https://badges.pufler.dev/visits/metantonio">
-    <img src="https://badges.pufler.dev/visits/metantonio?style=flat-square&logo=appveyor" alt="Visits Badge">
+<a href="https://github.com/metantonio">
+     <img src="https://badges.pufler.dev/visits/metantonio/metantonio?style=flat-square&color=black&logo=github&a=0">
   </a>
   <a href="https://github.com/metantonio?tab=repositories">
     <img src="https://badges.pufler.dev/repos/metantonio?style=flat-square&color=black&logo=github&a=0">
