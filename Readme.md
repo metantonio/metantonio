@@ -12,18 +12,18 @@
   </a>
   &emsp;
   <a href= "https://instagram.com/metantonio">
-    <img src="https://badges.aleen42.com/src/instagram.svg"/>
+    <img src="https://badges.aleen42.com/src/instagram.svg" width="90px"/>
   </a>
   &emsp;
   <a href="https://linkedin.com/in/metantonio">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90px"/>
   </a>
   &emsp;
   <a href="https://www.youtube.com/metantonio">
-      <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/subscribers/UC65ksYjdenCfaTriVznWs2Q?style=social"/></a>
+      <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/subscribers/UC65ksYjdenCfaTriVznWs2Q?style=social" width="90px"/></a>
    &emsp;
   <a href="https://soundcloud.com/metantonio">
-      <img alt="Soundcloud" title="Soundcloud" src="https://badges.aleen42.com/src/soundcloud.svg"/></a>
+      <img alt="Soundcloud" title="Soundcloud" src="https://badges.aleen42.com/src/soundcloud.svg"/ width="90px"></a>
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
