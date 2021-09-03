@@ -23,7 +23,7 @@
     <img src="https://badges.pufler.dev/years/metantonio?style=flat-square&color=black&logo=github&a=0">
   </a>
 <a href="https://badges.pufler.dev/visits/metantonio">
-    <img src="https://badges.pufler.dev/visits/metantonio" alt="Visits Badge">
+    <img src="https://badges.pufler.dev/visits/metantonio?style=flat-square&color=black&logo=github&a=0" alt="Visits Badge">
   </a>
   <a href="https://github.com/metantonio?tab=repositories">
     <img src="https://badges.pufler.dev/repos/metantonio?style=flat-square&color=black&logo=github&a=0">
