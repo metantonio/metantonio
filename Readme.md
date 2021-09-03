@@ -21,6 +21,9 @@
   &emsp;
   <a href="https://www.youtube.com/metantonio">
       <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/subscribers/UC65ksYjdenCfaTriVznWs2Q?style=social"/></a>
+   &emsp;
+  <a href="https://soundcloud.com/metantonio">
+      <img alt="Soundcloud" title="Soundcloud" src="https://badges.aleen42.com/src/soundcloud.svg"/></a>
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
