@@ -12,7 +12,7 @@
   </a>
   &emsp;
   <a href= "https://instagram.com/metantonio">
-    <img src="https://badges.aleen42.com/src/instagram.svg" width="90px"/>
+    <img src="https://badges.aleen42.com/src/instagram.svg"/>
   </a>
   &emsp;
   <a href="https://linkedin.com/in/metantonio">
@@ -20,7 +20,7 @@
   </a>
   &emsp;
   <a href="https://www.youtube.com/metantonio">
-      <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/subscribers/UC65ksYjdenCfaTriVznWs2Q?style=social" width="90px"/></a>
+      <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/subscribers/UC65ksYjdenCfaTriVznWs2Q?style=social"/></a>
    &emsp;
   <a href="https://soundcloud.com/metantonio">
       <img alt="Soundcloud" title="Soundcloud" src="https://badges.aleen42.com/src/soundcloud.svg"/ width="90px"></a>
