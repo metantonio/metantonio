@@ -27,5 +27,7 @@
   </a>
   <a href="https://github.com/metantonio?tab=repositories">
     <img src="https://badges.pufler.dev/repos/metantonio?style=flat-square&color=black&logo=github&a=0">
-
+ <br><br>
+  <strong>Stats since Sept-02-2021</strong>
+  <br><br>
 </p>
