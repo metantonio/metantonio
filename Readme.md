@@ -16,7 +16,7 @@
   </a>
   &emsp;
   <a href="https://linkedin.com/in/metantonio">
-    <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="26px"/>
   </a>
   &emsp;
   <a href="https://www.youtube.com/metantonio">
