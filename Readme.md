@@ -12,7 +12,7 @@
   </a>
   &emsp;
   <a href= "https://instagram.com/metantonio">
-    <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
+    <img src="https://badges.aleen42.com/src/instagram.svg"/>
   </a>
   &emsp;
   <a href="https://linkedin.com/in/metantonio">
