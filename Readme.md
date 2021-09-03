@@ -21,7 +21,8 @@
   <a href="https://soundcloud.com/metantonio">
       <img alt="Soundcloud" title="Soundcloud" src="https://badges.aleen42.com/src/soundcloud.svg"/ width="90px"></a>
   <br><br>
-  <strong href="https://storage.googleapis.com/certificates-breathecode/fdf7c30270f84483ff336c908f61852d7b8a06f8">Certificate</strong>
+<a href="https://storage.googleapis.com/certificates-breathecode/fdf7c30270f84483ff336c908f61852d7b8a06f8">
+  <strong >Certificate</strong> </a>
   <br><br>
   <a href="https://github.com/metantonio">
     <img src="https://badges.pufler.dev/years/metantonio?style=flat-square&color=black&logo=github&a=0">
