@@ -38,7 +38,7 @@
   <br><br>
   <strong>Check out my work below! or just stay to play!</strong>
   <br><br>
-### 🎮 Let's play Pokémon together~
+###🎮 Let's play Pokémon together~
 <br><br>
 <p align="center">
 <img src="https://toy.aoaoao.me/image" width="300"/>
