@@ -42,8 +42,9 @@
   <strong>Check out my work below! or just stay to play!</strong>
   <br><br>
 
-  <a align="center">🎮 Let's play Pokémon together!</a>
-  <br><br>
+<a align="center">🎮 Let's play Pokémon together!</a>
+<br><br>
+
   <p align="center">
     <a href="https://github.com/metantonio">
       <img src="https://toy.aoaoao.me/image" width="300"/>
@@ -88,7 +89,7 @@
   </p>
   -----
 
-  Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
+Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
 
   <details>
     <summary>Statistics of this game so far</summary>
@@ -97,5 +98,6 @@
     </a>
   </details>
 
-  ---
+---
+
 </p>
