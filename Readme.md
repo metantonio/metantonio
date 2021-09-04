@@ -42,7 +42,7 @@
   <strong>Check out my work below! or just stay to play!</strong>
   <br><br>
 
-  <span align="center">🎮 Let's play Pokémon together!</span>
+  <a align="center">🎮 Let's play Pokémon together!</a>
   <br><br>
   <p align="center">
     <a href="https://github.com/metantonio">
