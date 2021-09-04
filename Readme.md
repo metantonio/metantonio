@@ -54,7 +54,7 @@
 Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
 
 <details><summary>Statistics of this game so far</summary>
-  <img src="https://playground.aoaoao.me/Api/GBStatistic" />
+  <a href="https://github.com/metantonio"><img src="https://playground.aoaoao.me/Api/GBStatistic" /></a>
 </details>
 
 -----
