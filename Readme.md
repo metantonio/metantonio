@@ -32,7 +32,7 @@
   <a href="https://github.com/metantonio">
     <img src="https://badges.pufler.dev/visits/metantonio/metantonio?style=flat-square&color=black&logo=github&a=0">
   </a>
-  <a href="https://github.com/metantonio?tab=repositories">
+  <a href="https://badges.pufler.dev/repos/metantonio?style=flat-square&color=black&logo=github&a=0">
     <img src="https://badges.pufler.dev/repos/metantonio?style=flat-square&color=black&logo=github&a=0">
   </a>
   <br><br>
