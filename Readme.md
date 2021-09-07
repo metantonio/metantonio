@@ -58,6 +58,10 @@
     <a href="https://github.com/metantonio/infection-simulation" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/infection-simulation/main/example.jpg" width="200px" alt="GPGPU">
     </a>
+    <!-- Proyecto 5 -->
+    <a href="https://github.com/metantonio/yuzu-ea-updater" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/yuzu-ea-updater/main/portada.jpg" width="200px" alt="GPGPU">
+    </a>
   </p>
 <p align="center">🎮 Let's play Pokémon together!</p>
 <br><br>
