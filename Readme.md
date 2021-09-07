@@ -40,9 +40,9 @@
   <br><br>
   <br><br>
   <strong>Check out my work below! or just stay to play!</strong>
-  <br><br>
+  <br>
 
-<a align="center">🎮 Let's play Pokémon together!</a>
+<p align="center">🎮 Let's play Pokémon together!</p>
 <br><br>
 
   <p align="center">
