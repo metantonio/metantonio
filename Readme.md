@@ -66,6 +66,10 @@
     <a href="https://github.com/metantonio/AEMET-pythonclient-to-Excel" width="200px">
       <img src="https://opendata.aemet.es/centrodedescargas/imgs/logo_opendata_p.gif" width="200px" alt="GPGPU">
     </a>
+    <!-- Proyecto 7 -->
+    <a href="https://github.com/metantonio/cooking-nana-backend" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/cooking-nana-backend/main/logoback.jpg" width="200px" alt="GPGPU">
+    </a>
   </p>
 <p align="center">🎮 Let's play Pokémon together!</p>
 <br><br>
