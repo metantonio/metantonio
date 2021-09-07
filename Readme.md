@@ -70,6 +70,10 @@
     <a href="https://github.com/metantonio/cooking-nana-backend" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/cooking-nana-backend/main/logoback.jpg" width="200px" alt="GPGPU">
     </a>
+    <!-- Proyecto 8 -->
+    <a href="https://github.com/metantonio/cooking-nana-frontend" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/cooking-nana-frontend/master/src/img/Cooking-nana.png" width="200px" alt="GPGPU">
+    </a>
   </p>
 <p align="center">🎮 Let's play Pokémon together!</p>
 <br><br>
