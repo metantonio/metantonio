@@ -19,7 +19,7 @@
   </a>
    &emsp;
   <a href="https://soundcloud.com/metantonio">
-    <img alt="Soundcloud" title="Soundcloud" src="https://badges.aleen42.com/src/soundcloud.svg"/ width="90px">
+    <img alt="Soundcloud" title="Soundcloud" src="https://badges.aleen42.com/src/soundcloud.svg" width="90px">
   </a>
   <br><br>
   <a href="https://storage.googleapis.com/certificates-breathecode/fdf7c30270f84483ff336c908f61852d7b8a06f8">
@@ -41,7 +41,24 @@
   <br><br>
   <strong>Check out my work below! or just stay to play!</strong>
   <br>
-
+  <p>
+    <!-- Proyecto 1 -->
+    <a href="https://github.com/metantonio/gpgpu-particle-noise" width="200px">
+      <img src="https://github.com/metantonio/gpgpu-particle-noise/blob/main/example2.gif?raw=true" width="200px" alt="GPGPU">
+    </a>
+    <!-- Proyecto 2 -->
+    <a href="https://github.com/metantonio/tesis-ucv-ui" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/tesis-ucv-ui/main/docs/presentation.jpg" width="200px" alt="GPGPU">
+    </a>
+    <!-- Proyecto 3 -->
+    <a href="https://github.com/metantonio/red-neural-python" width="200px">
+      <img src="https://www.atriainnovation.com/wp-content/uploads/2019/10/Redes_neuronales_esquema.png" width="200px" alt="GPGPU">
+    </a>
+     <!-- Proyecto 4 -->
+    <a href="https://github.com/metantonio/infection-simulation" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/infection-simulation/main/example.jpg" width="200px" alt="GPGPU">
+    </a>
+  </p>
 <p align="center">🎮 Let's play Pokémon together!</p>
 <br><br>
 
