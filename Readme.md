@@ -64,7 +64,7 @@
     </a>
     <!-- Proyecto 6 -->
     <a href="https://github.com/metantonio/AEMET-pythonclient-to-Excel" width="200px">
-      <img src="https://opendata.aemet.es/centrodedescargas/imgs/logo_opendata_p.gif" width="200px" alt="GPGPU">
+      <img src="https://raw.githubusercontent.com/metantonio/AEMET-pythonclient-to-Excel/main/aemet.jpg" width="200px" alt="GPGPU">
     </a>
     <!-- Proyecto 7 -->
     <a href="https://github.com/metantonio/cooking-nana-backend" width="200px">
