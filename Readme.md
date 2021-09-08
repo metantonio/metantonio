@@ -84,7 +84,7 @@
 <!-- Sección de Ejercicios -->
 <details>
     <summary>
-      Some 4Geeks Academy Projects/Exercises
+      Some 4Geeks Academy Projects/Exercises deployed, For more exercises checkout repo and branches
     </summary>
     <!-- Ejercicio 1-->
     <a href="https://metantonio.github.io/react-projects-4geekacademy/" width="150px" height="150px">
