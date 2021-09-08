@@ -33,7 +33,7 @@
     <img src="https://badges.pufler.dev/visits/metantonio/metantonio?style=flat-square&color=black&logo=github&a=0" />
   </a>
   
-  <img src="https://badges.pufler.dev/repos/metantonio?style=flat-square&color=black&logo=github&a=0" />
+  <img src="https://badges.pufler.dev/repos/metantonio" />
   
   <br/>
   <p align="center">
