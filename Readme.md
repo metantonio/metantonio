@@ -32,9 +32,9 @@
   <a href="https://github.com/metantonio">
     <img src="https://badges.pufler.dev/visits/metantonio/metantonio?style=flat-square&color=black&logo=github&a=0"/>
   </a>
-  <a href="https://badges.pufler.dev/repos/metantonio?style=flat-square&color=black&logo=github&a=0">
-    <img src="https://badges.pufler.dev/repos/metantonio?style=flat-square&color=black&logo=github&a=0"/>
-  </a>
+  
+  <img src="https://badges.pufler.dev/repos/metantonio?style=flat-square&color=black&logo=github&a=0"/>
+  
   <br><br>
   <strong>Visits stats since Sept-02-2021</strong>
   <br><br>
