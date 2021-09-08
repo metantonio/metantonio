@@ -87,8 +87,12 @@
       Some 4Geeks Academy Projects/Exercises
     </summary>
     <!-- Ejercicio 1-->
-    <a href="https://metantonio.github.io/react-projects-4geekacademy/" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/react-projects-4geekacademy/tictactoe/tictactoe.jpg" width="200px" />
+    <a href="https://metantonio.github.io/react-projects-4geekacademy/" width="150px" height="150px">
+      <img src="https://raw.githubusercontent.com/metantonio/react-projects-4geekacademy/tictactoe/tictactoe.jpg" width="150px" />
+    </a>
+    <!-- Ejercicio 2-->
+    <a href="https://metantonio.github.io/instagram-photo-feed-bootstrap/" width="150px" height="150px">
+      <img src="https://raw.githubusercontent.com/metantonio/instagram-photo-feed-bootstrap/main/insta-bootstrap.jpg" width="150px" />
     </a>
   </details>
 <!-- Fin de la sección de ejercicios -->
