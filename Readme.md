@@ -48,35 +48,35 @@
   <p>
     <!-- Proyecto 1 -->
     <a href="https://github.com/metantonio/gpgpu-particle-noise" width="200px">
-      <img src="https://github.com/metantonio/gpgpu-particle-noise/blob/main/example2.gif?raw=true" width="200px" alt="GPGPU" />
+      <img src="https://github.com/metantonio/gpgpu-particle-noise/blob/main/example2.gif?raw=true" width="200px" alt="GPGPU" height="180"/>
     </a>
     <!-- Proyecto 2 -->
     <a href="https://github.com/metantonio/tesis-ucv-ui" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/tesis-ucv-ui/main/docs/presentation.jpg" width="200px" alt="TESIS" />
+      <img src="https://raw.githubusercontent.com/metantonio/tesis-ucv-ui/main/docs/presentation.jpg" width="200px" alt="TESIS" height="180"/>
     </a>
     <!-- Proyecto 3 -->
     <a href="https://github.com/metantonio/red-neural-python" width="200px">
-      <img src="https://www.atriainnovation.com/wp-content/uploads/2019/10/Redes_neuronales_esquema.png" width="200px" alt="RED NEURONAL" />
+      <img src="https://raw.githubusercontent.com/metantonio/red-neural-python/main/portada.jpg" width="200px" height="180" alt="RED NEURONAL" />
     </a>
      <!-- Proyecto 4 -->
     <a href="https://github.com/metantonio/infection-simulation" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/infection-simulation/main/example.jpg" width="200px" alt="Infection" />
+      <img src="https://raw.githubusercontent.com/metantonio/infection-simulation/main/example.jpg" width="200px" height="180" alt="Infection" />
     </a>
     <!-- Proyecto 5 -->
     <a href="https://github.com/metantonio/yuzu-ea-updater" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/yuzu-ea-updater/main/portada.jpg" width="200px" alt="Yuzu" />
+      <img src="https://raw.githubusercontent.com/metantonio/yuzu-ea-updater/main/portada.jpg" width="200px" height="180" alt="Yuzu" />
     </a>
     <!-- Proyecto 6 -->
     <a href="https://github.com/metantonio/AEMET-pythonclient-to-Excel" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/AEMET-pythonclient-to-Excel/main/aemet.jpg" width="200px" alt="AEMET" />
+      <img src="https://raw.githubusercontent.com/metantonio/AEMET-pythonclient-to-Excel/main/aemet.jpg" width="200px" height="180" alt="AEMET" />
     </a>
     <!-- Proyecto 7 -->
     <a href="https://github.com/metantonio/cooking-nana-backend" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/cooking-nana-backend/main/logoback.jpg" width="200px" alt="cooking-nana" />
+      <img src="https://raw.githubusercontent.com/metantonio/cooking-nana-backend/main/logoback.jpg" width="200px" height="180" alt="cooking-nana" />
     </a>
     <!-- Proyecto 8 -->
     <a href="https://github.com/metantonio/cooking-nana-frontend" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/cooking-nana-frontend/master/src/img/Cooking-nana.png" width="200px" alt="cooking-nana" />
+      <img src="https://raw.githubusercontent.com/metantonio/cooking-nana-frontend/master/src/img/Cooking-nana.png" height="180" width="200px" alt="cooking-nana" />
     </a>
   </p>
   <!-- Fin de la sección de proyectos -->
@@ -88,11 +88,11 @@
     </summary>
     <!-- Ejercicio 1-->
     <a href="https://metantonio.github.io/react-projects-4geekacademy/" width="150px" height="150px">
-      <img src="https://raw.githubusercontent.com/metantonio/react-projects-4geekacademy/tictactoe/tictactoe.jpg" width="150px" />
+      <img src="https://raw.githubusercontent.com/metantonio/react-projects-4geekacademy/tictactoe/tictactoe.jpg" width="150px" height="125px"/>
     </a>
     <!-- Ejercicio 2-->
     <a href="https://metantonio.github.io/instagram-photo-feed-bootstrap/" width="150px" height="150px">
-      <img src="https://raw.githubusercontent.com/metantonio/instagram-photo-feed-bootstrap/main/insta-bootstrap.jpg" width="150px" />
+      <img src="https://raw.githubusercontent.com/metantonio/instagram-photo-feed-bootstrap/main/insta-bootstrap.jpg" width="150px" height="125px"/>
     </a>
   </details>
 <!-- Fin de la sección de ejercicios -->
