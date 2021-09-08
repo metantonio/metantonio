@@ -81,6 +81,17 @@
   </p>
   <!-- Fin de la sección de proyectos -->
 </p>
+<!-- Sección de Ejercicios -->
+<details>
+    <summary>
+      Some 4Geeks Academy Projects/Exercises
+    </summary>
+    <!-- Ejercicio 1-->
+    <a href="https://metantonio.github.io/react-projects-4geekacademy/" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/react-projects-4geekacademy/tictactoe/tictactoe.jpg" width="200px" />
+    </a>
+  </details>
+<!-- Fin de la sección de ejercicios -->
 <!-- pokemon sección -->
 <p>
   <p align="center">🎮 Let's play Pokémon together!</p>
