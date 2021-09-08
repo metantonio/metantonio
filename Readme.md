@@ -4,7 +4,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metantonio&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark" height="180em" />
   </a> 
 </p>
-
+<!-- seccion de redes sociales -->
 <p align="center">
   <a href= "https://instagram.com/metantonio">
     <img src="https://badges.aleen42.com/src/instagram.svg" />
@@ -22,10 +22,12 @@
     <img alt="Soundcloud" title="Soundcloud" src="https://badges.aleen42.com/src/soundcloud.svg" width="90px" />
   </a>
   <br/><br/>
+  <!-- Final de las redes sociales -->
   <a href="https://storage.googleapis.com/certificates-breathecode/fdf7c30270f84483ff336c908f61852d7b8a06f8">
     <strong >Full-Stack Program Certificate</strong>
   </a>
   <br/><br/>
+  <!-- Sección con algunos badges básicos sobre mi repositorio -->
   <a href="https://github.com/metantonio">
     <img src="https://badges.pufler.dev/years/metantonio?style=flat-square&color=black&logo=github&a=0" />
   </a>
@@ -34,7 +36,7 @@
   </a>
   
   <img src="https://badges.pufler.dev/repos/metantonio" />
-  
+  <!-- Fin de los badges -->
   <br/>
   <p align="center">
     <strong>Visits stats since Sept-02-2021</strong>
@@ -42,7 +44,7 @@
     <br/><br/>
     <strong>Check out my work below! or just stay to play!</strong>
   </p>
-
+  <!-- Sección de Proyectos -->
   <p>
     <!-- Proyecto 1 -->
     <a href="https://github.com/metantonio/gpgpu-particle-noise" width="200px">
@@ -77,9 +79,13 @@
       <img src="https://raw.githubusercontent.com/metantonio/cooking-nana-frontend/master/src/img/Cooking-nana.png" width="200px" alt="cooking-nana" />
     </a>
   </p>
-<p align="center">🎮 Let's play Pokémon together!</p>
-<br></br>
-
+  <!-- Fin de la sección de proyectos -->
+</p>
+<!-- pokemon sección -->
+<p>
+  <p align="center">🎮 Let's play Pokémon together!</p>
+  <br></br>
+  <!-- pokemon game -->
   <p align="center">
     <a href="https://github.com/metantonio">
       <img src="https://toy.aoaoao.me/image" width="300"/>
@@ -123,8 +129,8 @@
     </p>
   </p>
   -----
-
-Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
+  <!-- end of pokemon game -->
+  Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
 
   <details>
     <summary>Statistics of this game so far</summary>
@@ -133,6 +139,6 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
     </a>
   </details>
 
----
-
+  ---
 </p>
+<!-- Fin de la sección pokemon -->
