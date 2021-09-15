@@ -46,6 +46,10 @@
   </p>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto 0 -->
+    <a href="https://github.com/metantonio/ML-tensorflow-web" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/ML-tensorflow-web/main/img/portada-readme.png" width="200px" alt="GPGPU" height="180"/>
+    </a>	
     <!-- Proyecto 1 -->
     <a href="https://github.com/metantonio/gpgpu-particle-noise" width="200px">
       <img src="https://github.com/metantonio/gpgpu-particle-noise/blob/main/example2.gif?raw=true" width="200px" alt="GPGPU" height="180"/>
