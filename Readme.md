@@ -46,6 +46,10 @@
   </p>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto -1 -->
+    <a href="https://github.com/metantonio/neural-network-python-2" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/neural-network-python-2/main/portada.jpg" width="200px" alt="GPGPU" height="180"/>
+    </a>	
     <!-- Proyecto 0 -->
     <a href="https://github.com/metantonio/ML-tensorflow-web" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/ML-tensorflow-web/main/img/portada-readme.png" width="200px" alt="GPGPU" height="180"/>
