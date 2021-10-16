@@ -46,6 +46,10 @@
   </p>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto -2 -->
+    <a href="https://github.com/metantonio/AI-virtual-mouse" width="200px">
+      <img src="https://github.com/metantonio/AI-virtual-mouse/blob/main/portada.gif" width="200px" alt="GPGPU" height="180"/>
+    </a>	
     <!-- Proyecto -1 -->
     <a href="https://github.com/metantonio/neural-network-python-2" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/neural-network-python-2/main/portada.gif" width="200px" alt="GPGPU" height="180"/>
