@@ -46,6 +46,10 @@
   </p>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto -3 -->
+    <a href="https://github.com/metantonio/red-neuronal-python-excel" width="200px">
+      <img src="https://github.com/metantonio/red-neuronal-python-excel/blob/main/portada.jpg" width="200px" alt="GPGPU" height="180"/>
+    </a>	
     <!-- Proyecto -2 -->
     <a href="https://github.com/metantonio/AI-virtual-mouse" width="200px">
       <img src="https://github.com/metantonio/AI-virtual-mouse/blob/main/portada.gif" width="200px" alt="GPGPU" height="180"/>
