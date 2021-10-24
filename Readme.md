@@ -46,6 +46,10 @@
   </p>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto -4 -->
+    <a href="https://github.com/metantonio/merge-pdf-files" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/merge-pdf-files/main/miniportada.jpg" width="200px" alt="GPGPU" height="180"/>
+    </a>	
     <!-- Proyecto -3 -->
     <a href="https://github.com/metantonio/red-neuronal-python-excel" width="200px">
       <img src="https://github.com/metantonio/red-neuronal-python-excel/blob/main/portada.jpg" width="200px" alt="GPGPU" height="180"/>
