@@ -46,6 +46,10 @@
   </p>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto -6 -->
+    <a href="https://github.com/metantonio/number-location" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/number-location/main/portada.jpg" width="200px" alt="GPGPU" height="180"/>
+    </a>
     <!-- Proyecto -5 -->
     <a href="https://github.com/metantonio/usa-covid-map" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/usa-covid-map/main/portada.jpg" width="200px" alt="GPGPU" height="180"/>
