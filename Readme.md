@@ -48,7 +48,7 @@
   <p>
     <!-- Proyecto -7 -->
     <a href="https://github.com/metantonio/map-draw" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/map-draw/main/portada.jpg?token=ADGSFJQTS3TKB5LWFI3PUL3BPDPVM" width="200px" alt="GPGPU" height="180"/>
+      <img src="https://raw.githubusercontent.com/metantonio/map-draw/main/portada.jpg?token=ADGSFJTN2LHUM563CE5RGK3BPDQEQ" width="200px" alt="GPGPU" height="180"/>
     </a>
     <!-- Proyecto -6 -->
     <a href="https://github.com/metantonio/number-location" width="200px">
