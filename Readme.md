@@ -17,6 +17,10 @@
   <a href="https://www.youtube.com/metantonio">
     <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/subscribers/UC65ksYjdenCfaTriVznWs2Q?style=social" />
   </a>
+  &emsp;
+  <a href="https://play.google.com/store/apps/developer?id=Antonio+Luis+III+Mart%C3%ADnez+Bastardo">
+    <img alt="Play-Store" title="Soundcloud" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" width="90px" />
+  </a>
    &emsp;
   <a href="https://soundcloud.com/metantonio">
     <img alt="Soundcloud" title="Soundcloud" src="https://badges.aleen42.com/src/soundcloud.svg" width="90px" />
