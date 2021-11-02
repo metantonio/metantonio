@@ -52,39 +52,39 @@
   <p>
     <!-- Proyecto -8 -->
     <a href="https://github.com/metantonio/Google-Developer-Training-Kotlin" width="200px">
-      <img src="https://github.com/metantonio/Google-Developer-Training-Kotlin/blob/main/portada.jpeg" width="200px" alt="GPGPU" height="180"/>
+      <img src="https://github.com/metantonio/Google-Developer-Training-Kotlin/blob/main/portada.jpg" width="200px" alt="Google Developer Training: Android-Kotlin" height="180"/>
     </a>
     <!-- Proyecto -7 -->
     <a href="https://github.com/metantonio/map-draw" width="200px">
-      <img src="./map-draw.gif" width="200px" alt="GPGPU" height="180"/>
+      <img src="./map-draw.gif" width="200px" alt="Coordinates to Draw a Map" height="180"/>
     </a>
     <!-- Proyecto -6 -->
     <a href="https://github.com/metantonio/number-location" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/number-location/main/portada.jpg" width="200px" alt="GPGPU" height="180"/>
+      <img src="https://raw.githubusercontent.com/metantonio/number-location/main/portada.jpg" width="200px" alt="Cellphone Location" height="180"/>
     </a>
     <!-- Proyecto -5 -->
     <a href="https://github.com/metantonio/usa-covid-map" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/usa-covid-map/main/portada.jpg" width="200px" alt="GPGPU" height="180"/>
+      <img src="https://raw.githubusercontent.com/metantonio/usa-covid-map/main/portada.jpg" width="200px" alt="Covid Map" height="180"/>
     </a>
     <!-- Proyecto -4 -->
     <a href="https://github.com/metantonio/merge-pdf-files" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/merge-pdf-files/main/miniportada.jpg" width="200px" alt="GPGPU" height="180"/>
+      <img src="https://raw.githubusercontent.com/metantonio/merge-pdf-files/main/miniportada.jpg" width="200px" alt="Merge PDF Files" height="180"/>
     </a>	
     <!-- Proyecto -3 -->
     <a href="https://github.com/metantonio/red-neuronal-python-excel" width="200px">
-      <img src="https://github.com/metantonio/red-neuronal-python-excel/blob/main/portada.jpg" width="200px" alt="GPGPU" height="180"/>
+      <img src="https://github.com/metantonio/red-neuronal-python-excel/blob/main/portada.jpg" width="200px" alt="Neural Network with Excel" height="180"/>
     </a>	
     <!-- Proyecto -2 -->
     <a href="https://github.com/metantonio/AI-virtual-mouse" width="200px">
-      <img src="https://github.com/metantonio/AI-virtual-mouse/blob/main/portada.gif" width="200px" alt="GPGPU" height="180"/>
+      <img src="https://github.com/metantonio/AI-virtual-mouse/blob/main/portada.gif" width="200px" alt="AI Virtual Mouse" height="180"/>
     </a>	
     <!-- Proyecto -1 -->
     <a href="https://github.com/metantonio/neural-network-python-2" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/neural-network-python-2/main/portada.gif" width="200px" alt="GPGPU" height="180"/>
+      <img src="https://raw.githubusercontent.com/metantonio/neural-network-python-2/main/portada.gif" width="200px" alt="Neural Network Draw" height="180"/>
     </a>	
     <!-- Proyecto 0 -->
     <a href="https://github.com/metantonio/ML-tensorflow-web" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/ML-tensorflow-web/main/img/portada-readme.png" width="200px" alt="GPGPU" height="180"/>
+      <img src="https://raw.githubusercontent.com/metantonio/ML-tensorflow-web/main/img/portada-readme.png" width="200px" alt="Machine Learning Tutorial" height="180"/>
     </a>	
     <!-- Proyecto 1 -->
     <a href="https://github.com/metantonio/gpgpu-particle-noise" width="200px">
