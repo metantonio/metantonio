@@ -7,11 +7,11 @@
 <!-- seccion de redes sociales -->
 <p align="center">
   <a href= "https://instagram.com/metantonio">
-    <img src="https://badges.aleen42.com/src/instagram.svg" />
+    <img src="https://badges.aleen42.com/src/instagram.svg" title="Instagram Profile"/>
   </a>
   &emsp;
   <a href="https://linkedin.com/in/metantonio">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80px" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80px" title="LinkedIn Profile"/>
   </a>
   &emsp;
   <a href="https://www.youtube.com/metantonio">
