@@ -46,6 +46,10 @@
   </p>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto -8 -->
+    <a href="https://github.com/metantonio/Google-Developer-Training-Kotlin" width="200px">
+      <img src="https://github.com/metantonio/Google-Developer-Training-Kotlin/blob/main/portada.jpeg" width="200px" alt="GPGPU" height="180"/>
+    </a>
     <!-- Proyecto -7 -->
     <a href="https://github.com/metantonio/map-draw" width="200px">
       <img src="./map-draw.gif" width="200px" alt="GPGPU" height="180"/>
