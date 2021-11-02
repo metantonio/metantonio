@@ -15,7 +15,7 @@
   </a>
   &emsp;
   <a href="https://www.youtube.com/metantonio">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/subscribers/UC65ksYjdenCfaTriVznWs2Q?style=social" />
+    <img alt="youtube subs" title="YouTube subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC65ksYjdenCfaTriVznWs2Q?style=social" />
   </a>
   &emsp;
   <a href="https://play.google.com/store/apps/developer?id=Antonio+Luis+III+Mart%C3%ADnez+Bastardo">
@@ -50,71 +50,71 @@
   </p>
   <!-- Sección de Proyectos -->
   <p>
-    <!-- Proyecto -8 -->
+    <!-- Proyecto 17 -->
     <a href="https://github.com/metantonio/Google-Developer-Training-Kotlin" width="200px">
       <img src="https://github.com/metantonio/Google-Developer-Training-Kotlin/blob/main/portada.jpg" width="200px" alt="Google Developer Training: Android-Kotlin" height="180"/>
     </a>
-    <!-- Proyecto -7 -->
+    <!-- Proyecto 16 -->
     <a href="https://github.com/metantonio/map-draw" width="200px">
       <img src="./map-draw.gif" width="200px" alt="Coordinates to Draw a Map" height="180"/>
     </a>
-    <!-- Proyecto -6 -->
+    <!-- Proyecto 15 -->
     <a href="https://github.com/metantonio/number-location" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/number-location/main/portada.jpg" width="200px" alt="Cellphone Location" height="180"/>
     </a>
-    <!-- Proyecto -5 -->
+    <!-- Proyecto 14 -->
     <a href="https://github.com/metantonio/usa-covid-map" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/usa-covid-map/main/portada.jpg" width="200px" alt="Covid Map" height="180"/>
     </a>
-    <!-- Proyecto -4 -->
+    <!-- Proyecto 13 -->
     <a href="https://github.com/metantonio/merge-pdf-files" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/merge-pdf-files/main/miniportada.jpg" width="200px" alt="Merge PDF Files" height="180"/>
     </a>	
-    <!-- Proyecto -3 -->
+    <!-- Proyecto 12 -->
     <a href="https://github.com/metantonio/red-neuronal-python-excel" width="200px">
       <img src="https://github.com/metantonio/red-neuronal-python-excel/blob/main/portada.jpg" width="200px" alt="Neural Network with Excel" height="180"/>
     </a>	
-    <!-- Proyecto -2 -->
+    <!-- Proyecto 11 -->
     <a href="https://github.com/metantonio/AI-virtual-mouse" width="200px">
       <img src="https://github.com/metantonio/AI-virtual-mouse/blob/main/portada.gif" width="200px" alt="AI Virtual Mouse" height="180"/>
     </a>	
-    <!-- Proyecto -1 -->
+    <!-- Proyecto 10 -->
     <a href="https://github.com/metantonio/neural-network-python-2" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/neural-network-python-2/main/portada.gif" width="200px" alt="Neural Network Draw" height="180"/>
     </a>	
-    <!-- Proyecto 0 -->
+    <!-- Proyecto 9 -->
     <a href="https://github.com/metantonio/ML-tensorflow-web" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/ML-tensorflow-web/main/img/portada-readme.png" width="200px" alt="Machine Learning Tutorial" height="180"/>
     </a>	
-    <!-- Proyecto 1 -->
+    <!-- Proyecto 8 -->
     <a href="https://github.com/metantonio/gpgpu-particle-noise" width="200px">
       <img src="https://github.com/metantonio/gpgpu-particle-noise/blob/main/example2.gif?raw=true" width="200px" alt="GPGPU" height="180"/>
     </a>
-    <!-- Proyecto 2 -->
+    <!-- Proyecto 7 -->
     <a href="https://github.com/metantonio/tesis-ucv-ui" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/tesis-ucv-ui/main/docs/presentation.jpg" width="200px" alt="TESIS" height="180"/>
     </a>
-    <!-- Proyecto 3 -->
+    <!-- Proyecto 6 -->
     <a href="https://github.com/metantonio/red-neural-python" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/red-neural-python/main/portada.jpg" width="200px" height="180" alt="RED NEURONAL" />
     </a>
-     <!-- Proyecto 4 -->
+     <!-- Proyecto 5 -->
     <a href="https://github.com/metantonio/infection-simulation" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/infection-simulation/main/example.jpg" width="200px" height="180" alt="Infection" />
     </a>
-    <!-- Proyecto 5 -->
+    <!-- Proyecto 4 -->
     <a href="https://github.com/metantonio/yuzu-ea-updater" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/yuzu-ea-updater/main/portada.jpg" width="200px" height="180" alt="Yuzu" />
     </a>
-    <!-- Proyecto 6 -->
+    <!-- Proyecto 3 -->
     <a href="https://github.com/metantonio/AEMET-pythonclient-to-Excel" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/AEMET-pythonclient-to-Excel/main/aemet.jpg" width="200px" height="180" alt="AEMET" />
     </a>
-    <!-- Proyecto 7 -->
+    <!-- Proyecto 2 -->
     <a href="https://github.com/metantonio/cooking-nana-backend" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/cooking-nana-backend/main/logoback.jpg" width="200px" height="180" alt="cooking-nana" />
     </a>
-    <!-- Proyecto 8 -->
+    <!-- Proyecto 1 -->
     <a href="https://github.com/metantonio/cooking-nana-frontend" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/cooking-nana-frontend/master/src/img/Cooking-nana.png" height="180" width="200px" alt="cooking-nana" />
     </a>
