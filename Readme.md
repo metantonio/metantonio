@@ -56,7 +56,7 @@
     </a>
     <!-- Proyecto 16 -->
     <a href="https://github.com/metantonio/map-draw" width="200px">
-      <img src="https://github.com/metantonio/map-draw/blob/main/portada2.gif" width="200px" alt="Coordinates to Draw a Map" height="180"/>
+      <img src="https://github.com/metantonio/map-draw/blob/main/portadagif.gif" width="200px" alt="Coordinates to Draw a Map" height="180"/>
     </a>
     <!-- Proyecto 15 -->
     <a href="https://github.com/metantonio/number-location" width="200px">
