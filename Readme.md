@@ -123,20 +123,7 @@
 </p>
 <!-- Sección de Ejercicios -->
 <!--
-<details>
-    <summary>
-      Some 4Geeks Academy Projects/Exercises deployed, For more exercises checkout repo and branches
-    </summary>
-    <!-- Ejercicio 1-->
-    <a href="https://metantonio.github.io/react-projects-4geekacademy/" width="150px" height="150px">
-      <img src="https://raw.githubusercontent.com/metantonio/react-projects-4geekacademy/tictactoe/tictactoe.jpg" width="150px" height="125px"/>
-      <h6 height="25px" width="150px">App React perdió estados en github's pages</h6>
-    </a>
-    <!-- Ejercicio 2-->
-    <a href="https://metantonio.github.io/instagram-photo-feed-bootstrap/" width="150px" height="150px">
-      <img src="https://raw.githubusercontent.com/metantonio/instagram-photo-feed-bootstrap/main/insta-bootstrap.jpg" width="150px" height="125px"/>
-    </a>
-  </details>
+
 -->
 <!-- Fin de la sección de ejercicios -->
 <!-- pokemon sección -->
