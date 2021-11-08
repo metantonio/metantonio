@@ -122,6 +122,7 @@
   <!-- Fin de la sección de proyectos -->
 </p>
 <!-- Sección de Ejercicios -->
+<!--
 <details>
     <summary>
       Some 4Geeks Academy Projects/Exercises deployed, For more exercises checkout repo and branches
@@ -136,6 +137,7 @@
       <img src="https://raw.githubusercontent.com/metantonio/instagram-photo-feed-bootstrap/main/insta-bootstrap.jpg" width="150px" height="125px"/>
     </a>
   </details>
+-->
 <!-- Fin de la sección de ejercicios -->
 <!-- pokemon sección -->
 <p>
