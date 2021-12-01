@@ -50,6 +50,10 @@
   </p>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto 18 -->
+    <a href="https://github.com/metantonio/folder-organizer" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/folder-organizer/main/portada.jpg" width="200px" alt="Folder Organizer by Metantonio" height="180"/>
+    </a>
     <!-- Proyecto 17 -->
     <a href="https://github.com/metantonio/Google-Developer-Training-Kotlin" width="200px">
       <img src="https://github.com/metantonio/Google-Developer-Training-Kotlin/blob/main/portada.jpg" width="200px" alt="Google Developer Training: Android-Kotlin" height="180"/>
