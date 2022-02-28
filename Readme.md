@@ -51,7 +51,7 @@
   <!-- Sección de Proyectos -->
   <p>
     <!-- Proyecto 19 -->
-    <a href="https://github.com/metantonio/folder-organizer" width="200px">
+    <a href="https://github.com/metantonio/metantonio/blob/main/docs/Gu%C3%ADa%20R%C3%A1pida%20GitHub%20por%20Antonio%20Mart%C3%ADnez.pdf" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/docs/guiaGitHub.jpg" width="200px" alt="Folder Organizer by Metantonio" height="180"/>
     </a>
     <!-- Proyecto 18 -->
