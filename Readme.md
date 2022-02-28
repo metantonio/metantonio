@@ -50,6 +50,10 @@
   </p>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto 19 -->
+    <a href="https://github.com/metantonio/folder-organizer" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/docs/guiaGitHub.jpg" width="200px" alt="Folder Organizer by Metantonio" height="180"/>
+    </a>
     <!-- Proyecto 18 -->
     <a href="https://github.com/metantonio/folder-organizer" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/folder-organizer/main/portada.jpg" width="200px" alt="Folder Organizer by Metantonio" height="180"/>
