@@ -34,11 +34,7 @@
   <!-- Sección con algunos badges básicos sobre mi repositorio -->
   <a href="https://github.com/metantonio">
     <img src="https://badges.pufler.dev/years/metantonio?style=flat-square&color=black&logo=github&a=0" />
-  </a>
-  <a href="https://github.com/metantonio">
-    <img src="https://badges.pufler.dev/visits/metantonio/metantonio?style=flat-square&color=black&logo=github&a=0" />
-  </a>
-  
+  </a>    
   <img src="https://badges.pufler.dev/repos/metantonio" />
   <!-- Fin de los badges -->
   <br/>
