@@ -50,6 +50,10 @@
   </p>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto 22 -->
+    <a href="https://github.com/metantonio/ml_description" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/ml_description/master/main.jpeg?token=GHSAT0AAAAAACJOSLQFSND5QSFH4YQKMWQCZOKIZAQ" width="200px" alt="qlx-gpt by Metantonio" height="180"/>
+    </a>
     <!-- Proyecto 21 -->
     <a href="https://github.com/metantonio/dijkstra-algorithm" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/dijkstra-algorithm/master/Figure_2.png" width="200px" alt="Dijkstra algorithm by Metantonio" height="180"/>
