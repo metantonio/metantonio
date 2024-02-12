@@ -39,7 +39,6 @@
   <!-- Fin de los badges -->
   <br/>
   <p align="center">
-    <strong>Visits stats since Sept-02-2021</strong>
     <br/><br/>
     <br/><br/>
     <strong>Check out my work below! or just stay to play!</strong>
@@ -59,7 +58,7 @@ misc: ["bash", "systemd", "selinux", "nginx", "RStudio workbench"]
 }
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/{metantonio}/count.svg)
+Visits since feb/12/2024: ![Visitor Count](https://profile-counter.glitch.me/{metantonio}/count.svg)
 
 <br/>
   <!-- Sección de Proyectos -->
