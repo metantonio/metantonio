@@ -48,6 +48,21 @@
     <br/><br/>
     <strong>Check out my work below! or just stay to play!</strong>
   </p>
+  <!-- Sección de Descripción -->
+  <p>
+```javascript
+const ANTONIO = {
+gender: "male",
+code: [Javascript, Python, C#, VBA, HTML, CSS],
+tools: [React, Redux, Node, Flask, Flask-sqlAlchemy, Jest, Docker, Express],
+architecture: ["microservices", "event-driven", "REST API", "web-sockets"],
+machineLearning: ["tensorflow", "keras"],
+ai: ["llama-cpp"],
+databases: ["mongoDB", "postgres", "mySQL", "qdrant"],
+misc: ["bash", "systemd", "selinux", "nginx", "RStudio workbench"]
+}
+```
+</p>
   <!-- Sección de Proyectos -->
   <p>
     <!-- Proyecto 22 -->
