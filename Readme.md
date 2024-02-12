@@ -49,7 +49,7 @@
     <strong>Check out my work below! or just stay to play!</strong>
   </p>
   <!-- Sección de Descripción -->
-  <p>
+
 ```javascript
 const ANTONIO = {
 gender: "male",
@@ -62,7 +62,7 @@ databases: ["mongoDB", "postgres", "mySQL", "qdrant"],
 misc: ["bash", "systemd", "selinux", "nginx", "RStudio workbench"]
 }
 ```
-</p>
+<br/>
   <!-- Sección de Proyectos -->
   <p>
     <!-- Proyecto 22 -->
