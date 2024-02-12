@@ -62,9 +62,9 @@ databases: ["mongoDB", "postgres", "mySQL", "qdrant"],
 misc: ["bash", "systemd", "selinux", "nginx", "RStudio workbench"]
 }
 ```
-```
-  ![Visitor Count](https://profile-counter.glitch.me/{metantonio}/count.svg)
-```
+
+![Visitor Count](https://profile-counter.glitch.me/{metantonio}/count.svg)
+
 <br/>
   <!-- Sección de Proyectos -->
   <p>
