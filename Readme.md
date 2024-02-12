@@ -53,8 +53,8 @@
 ```javascript
 const ANTONIO = {
 gender: "male",
-code: [Javascript, Python, C#, VBA, HTML, CSS],
-tools: [React, Redux, Node, Flask, Flask-sqlAlchemy, Jest, Docker, Express],
+code: [Javascript, Python, "C#", VBA, HTML, CSS],
+tools: [React, Redux, Node, Flask, "Flask-sqlAlchemy", Jest, Docker, Express],
 architecture: ["microservices", "event-driven", "REST API", "web-sockets"],
 machineLearning: ["tensorflow", "keras"],
 ai: ["llama-cpp"],
