@@ -50,6 +50,10 @@
   </p>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto 21 -->
+    <a href="https://github.com/metantonio/dijkstra-algorithm" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/dijkstra-algorithm/master/Figure_2.png" width="200px" alt="Dijkstra algorithm by Metantonio" height="180"/>
+    </a>
     <!-- Proyecto 20 -->
     <a href="https://github.com/metantonio/video-tools" width="200px">
       <img src="https://github.com/metantonio/video-tools/blob/main/portada.jpg?raw=true" width="200px" alt="video-tools by Metantonio" height="180"/>
