@@ -38,9 +38,7 @@
   <a href="https://github.com/metantonio">
     <img src="https://badges.pufler.dev/visits/metantonio/metantonio?style=flat-square&color=black&logo=github&a=0" />
   </a>
-  ```
-  ![Visitor Count](https://profile-counter.glitch.me/{metantonio}/count.svg)
-  ```
+  
   <img src="https://badges.pufler.dev/repos/metantonio" />
   <!-- Fin de los badges -->
   <br/>
@@ -63,6 +61,9 @@ ai: ["llama-cpp"],
 databases: ["mongoDB", "postgres", "mySQL", "qdrant"],
 misc: ["bash", "systemd", "selinux", "nginx", "RStudio workbench"]
 }
+```
+```
+  ![Visitor Count](https://profile-counter.glitch.me/{metantonio}/count.svg)
 ```
 <br/>
   <!-- Sección de Proyectos -->
