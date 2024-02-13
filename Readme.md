@@ -59,7 +59,7 @@ misc: ["bash", "systemd", "selinux", "nginx", "RStudio workbench"]
 ```
 
 Visits since feb/12/2024: ![Visitor Count](https://profile-counter.glitch.me/{metantonio}/count.svg)
-
+<p>Note: Some of the following projects could be on Private</p>
 <br/>
   <!-- Sección de Proyectos -->
   <p>
