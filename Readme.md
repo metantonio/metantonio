@@ -63,6 +63,10 @@ Visits since feb/12/2024: ![Visitor Count](https://profile-counter.glitch.me/{me
 <br/>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto 24 -->
+    <a href="https://github.com/metantonio/game_python" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/game_python/master/image.jpg" width="200px" alt="A Basic Python Game by Metantonio" height="180"/>
+    </a>
     <!-- Proyecto 23 -->
     <a href="https://github.com/metantonio/sql-workflow" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/workflow.gif" width="200px" alt="Workflow by Metantonio" height="180"/>
