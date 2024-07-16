@@ -65,7 +65,7 @@ Visits since feb/12/2024: ![Visitor Count](https://profile-counter.glitch.me/{me
   <p>
     <!-- Proyecto 26 -->
     <a href="https://github.com/metantonio/portable-python" width="200px">
-      Portable Python
+      <img src="https://raw.githubusercontent.com/metantonio/portable-python/master/image.png" width="200px" alt="AVL Tree database by Metantonio" height="180"/>
     </a>
     <!-- Proyecto 25 -->
     <a href="https://github.com/metantonio/binary-alv-database" width="200px">
