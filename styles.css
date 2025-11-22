@@ -46,7 +46,7 @@ a {
     border-radius: 50%;
     border: 4px solid var(--border);
     margin-bottom: 20px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
 }
 
 h1 {
@@ -87,7 +87,7 @@ h1 {
 .stats img {
     height: 160px;
     border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 /* Skills Section */
@@ -96,7 +96,8 @@ h1 {
     text-align: center;
 }
 
-.skills h2, .projects h2 {
+.skills h2,
+.projects h2 {
     font-size: 2rem;
     margin-bottom: 30px;
     border-bottom: 2px solid var(--border);
@@ -104,21 +105,58 @@ h1 {
     padding-bottom: 10px;
 }
 
-.code-block {
-    background-color: var(--card-bg);
-    padding: 20px;
-    border-radius: 10px;
-    border: 1px solid var(--border);
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
     text-align: left;
-    display: inline-block;
-    max-width: 100%;
-    overflow-x: auto;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
 
-pre {
-    font-family: 'Fira Code', monospace;
+.skill-category {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+    transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.skill-category:hover {
+    transform: translateY(-5px);
+    border-color: var(--accent);
+}
+
+.skill-category h3 {
     color: var(--text-main);
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.skill-category h3 i {
+    color: var(--accent);
+}
+
+.skill-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.skill-tags span {
+    background-color: rgba(88, 166, 255, 0.1);
+    color: var(--text-main);
+    padding: 5px 12px;
+    border-radius: 15px;
+    font-size: 0.9rem;
+    border: 1px solid rgba(88, 166, 255, 0.2);
+    transition: all 0.2s ease;
+}
+
+.skill-tags span:hover {
+    background-color: rgba(88, 166, 255, 0.2);
+    border-color: var(--accent);
 }
 
 /* Projects Section */
@@ -146,7 +184,7 @@ pre {
 
 .project-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 12px 24px rgba(0,0,0,0.4);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
     border-color: var(--accent);
 }
 
@@ -224,6 +262,12 @@ footer i {
 }
 
 @media (max-width: 768px) {
-    h1 { font-size: 2.5rem; }
-    .stats img { height: auto; width: 100%; }
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    .stats img {
+        height: auto;
+        width: 100%;
+    }
 }
