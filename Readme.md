@@ -58,11 +58,15 @@ misc: ["bash", "systemd", "selinux", "nginx", "RStudio workbench"]
 }
 ```
 
-Visits since feb/12/2024: ![Visitor Count](https://profile-counter.glitch.me/{metantonio}/count.svg)
+Visits since Nov/22/2024: ![Visitor Count](https://komarev.com/ghpvc/?username=metantonio&label=Profile%20Views&color=0e75b6&style=flat)
 <p>Note: Some of the following projects could be on Private</p>
 <br/>
   <!-- Sección de Proyectos -->
   <p>
+    <!-- Proyecto Budgeting App -->
+    <a href="https://budgeting-app-bxb1.onrender.com/" width="200px">
+      <img src="./docs/My Budget.png" width="200px" alt="Budgeting App by Metantonio" height="180"/>
+    </a>
     <!-- Proyecto 26 -->
     <a href="https://github.com/metantonio/portable-python" width="200px">
       <img src="https://raw.githubusercontent.com/metantonio/portable-python/master/image.png" width="200px" alt="AVL Tree database by Metantonio" height="180"/>
@@ -175,66 +179,6 @@ Visits since feb/12/2024: ![Visitor Count](https://profile-counter.glitch.me/{me
 
 -->
 <!-- Fin de la sección de ejercicios -->
-<!-- pokemon sección -->
-<p>
-  <p align="center">🎮 Let's play Pokémon together!</p>
-  <br></br>
-  <!-- pokemon game -->
-  <p align="center">
-    <a href="https://github.com/metantonio">
-      <img src="https://toy.aoaoao.me/image" width="300"/>
-    </a>
-    <p align="center"> 
-      <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/blank.png" width="30"/> 
-        <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/metantonio" style="position:absolute; top:-100px;">
-          <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/up.png" width="30"/>
-        </a>
-      <br/>
-      <a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/metantonio">
-        <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/left.png" width="30"/>
-      </a>
-      <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/blank.png" width="30"/>
-      <a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/metantonio">
-        <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/right.png" width="30"/>
-      </a>
-      <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/blank.png" width="30"/>
-      <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/blank.png" width="30"/>
-      <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/blank.png" width="30"/>
-      <a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/metantonio">
-        <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/B.png" width="30"/>
-      </a> 
-      <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/metantonio">
-        <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/A.png" width="30"/>
-      </a>
-      <br>
-      <a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/metantonio">
-        <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/blank.png" width="30"/>
-        <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/down.png" width="30"/>
-      </a>
-      <br/>
-      <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/blank.png" width="30"/>
-      <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/blank.png" width="30"/>
-      <a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/metantonio">
-        <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/select.png" height="30"/>
-      </a> 
-      <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/metantonio">
-        <img src="https://raw.githubusercontent.com/metantonio/metantonio/main/img/start.png" height="30" />
-      </a> 
-    </p>
-  </p>
-  -----
-  <!-- end of pokemon game -->
-  Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
 
-  <details>
-    <summary>Statistics of this game so far</summary>
-    <a href="https://github.com/metantonio">
-      <img src="https://playground.aoaoao.me/Api/GBStatistic" />
-    </a>
-  </details>
-
-  ---
-</p>
-<!-- Fin de la sección pokemon -->
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="metantonio" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ve.linkedin.com/in/metantonio?trk=profile-badge">Antonio Martínez</a></div>
               
