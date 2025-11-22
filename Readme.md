@@ -58,7 +58,7 @@ misc: ["bash", "systemd", "selinux", "nginx", "RStudio workbench"]
 }
 ```
 
-Visits since Nov/22/2024: ![Visitor Count](https://komarev.com/ghpvc/?username=metantonio&label=Profile%20Views&color=0e75b6&style=flat)
+Visits since Nov/22/2025: ![Visitor Count](https://komarev.com/ghpvc/?username=metantonio&label=Profile%20Views&color=0e75b6&style=flat)
 <p>Note: Some of the following projects could be on Private</p>
 <br/>
   <!-- Sección de Proyectos -->
