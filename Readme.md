@@ -43,7 +43,7 @@
     <br/><br/>
     <strong>Check out my work below! or just stay to play!</strong>
     <br/>
-    <a href="https://metantonio.github.io/">
+    <a href="https://metantonio.github.io/metantonio">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=github" alt="Visit Portfolio" />
     </a>
   </p>
