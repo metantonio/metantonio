@@ -9,56 +9,96 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <div class="skill-category">
-        <h3><i class="fas fa-code"></i> Languages</h3>
-        <div class="skill-tags">
-            <span>Javascript</span>
-            <span>Typescript</span>
-            <span>Python</span>
-            <span>C#</span>
-            <span>VBA</span>
-            <span>HTML</span>
-            <span>CSS</span>
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Antonio Martínez | Portfolio</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+        <!-- Placeholder for FontAwesome -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    </head>
+
+<body>
+    <header class="hero">
+        <div class="container">
+            <div class="profile-header">
+                <div id="voxel-container" style="height: 200px; width: 100%; margin-bottom: 20px;"></div>
+                <!-- <img src="https://github.com/metantonio.png" alt="Antonio Martínez" class="avatar"> -->
+                <h1>Antonio Martínez</h1>
+                <p class="subtitle">Full-Stack Developer & AI Enthusiast</p>
+
+                <div class="social-links">
+                    <a href="https://github.com/metantonio" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="https://linkedin.com/in/metantonio" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://instagram.com/metantonio" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.youtube.com/metantonio" target="_blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://soundcloud.com/metantonio" target="_blank"><i class="fab fa-soundcloud"></i></a>
+                </div>
+            </div>
         </div>
-    </div>
-    <div class="skill-category">
-        <h3><i class="fas fa-tools"></i> Frameworks & Tools</h3>
-        <div class="skill-tags">
-            <span>React</span>
-            <span>Redux</span>
-            <span>Node.js</span>
-            <span>Flask</span>
-            <span>Docker</span>
-            <span>Express</span>
+    </header>
+
+    <section class="stats container">
+        <img src="https://github-readme-stats.vercel.app/api?username=metantonio&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true"
+            alt="Antonio's Stats">
+        <div class="skills-grid">
+            <div class="skill-category">
+                <h3><i class="fas fa-code"></i> Languages</h3>
+                <div class="skill-tags">
+                    <span>Javascript</span>
+                    <span>Typescript</span>
+                    <span>Python</span>
+                    <span>C#</span>
+                    <span>VBA</span>
+                    <span>HTML</span>
+                    <span>CSS</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <h3><i class="fas fa-tools"></i> Frameworks & Tools</h3>
+                <div class="skill-tags">
+                    <span>React</span>
+                    <span>Redux</span>
+                    <span>Node.js</span>
+                    <span>Flask</span>
+                    <span>Docker</span>
+                    <span>Express</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <h3><i class="fas fa-sitemap"></i> Architecture</h3>
+                <div class="skill-tags">
+                    <span>Microservices</span>
+                    <span>Event-driven</span>
+                    <span>REST API</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <h3><i class="fas fa-brain"></i> AI & ML</h3>
+                <div class="skill-tags">
+                    <span>Tensorflow</span>
+                    <span>Keras</span>
+                    <span>Llama-cpp</span>
+                    <span>LangChain</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <h3><i class="fas fa-database"></i> Databases</h3>
+                <div class="skill-tags">
+                    <span>MongoDB</span>
+                    <span>Postgres</span>
+                    <span>MySQL</span>
+                    <span>Qdrant</span>
+                </div>
+            </div>
         </div>
-    </div>
-    <div class="skill-category">
-        <h3><i class="fas fa-sitemap"></i> Architecture</h3>
-        <div class="skill-tags">
-            <span>Microservices</span>
-            <span>Event-driven</span>
-            <span>REST API</span>
-        </div>
-    </div>
-    <div class="skill-category">
-        <h3><i class="fas fa-brain"></i> AI & ML</h3>
-        <div class="skill-tags">
-            <span>Tensorflow</span>
-            <span>Keras</span>
-            <span>Llama-cpp</span>
-            <span>LangChain</span>
-        </div>
-    </div>
-    <div class="skill-category">
-        <h3><i class="fas fa-database"></i> Databases</h3>
-        <div class="skill-tags">
-            <span>MongoDB</span>
-            <span>Postgres</span>
-            <span>MySQL</span>
-            <span>Qdrant</span>
-        </div>
-    </div>
-    </div>
     </section>
 
     <section class="projects container">
@@ -400,6 +440,7 @@
                 alt="Visitor Count">
         </p>
     </footer>
-    </body>
+    <script type="module" src="voxel.js"></script>
+</body>
 
 </html>
