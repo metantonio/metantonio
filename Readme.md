@@ -193,29 +193,6 @@ Visits since Nov/22/2025: ![Visitor Count](https://komarev.com/ghpvc/?username=m
 
 ## 🚀 Projects
 
-- [ClaraVerse](https://github.com/metantonio/ClaraVerse) - Clara — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. No backend. No API keys. Just your stack, your machine.
-- [MinerU](https://github.com/metantonio/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agent workflows.
-- [mermaid](https://github.com/metantonio/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [number-location](https://github.com/metantonio/number-location) - No description
-- [Archon](https://github.com/metantonio/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-- [gguf-docs](https://github.com/metantonio/gguf-docs) - Docs for GGUF quantization (unofficial)
-- [tensorzero](https://github.com/metantonio/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-- [triangle-splatting](https://github.com/metantonio/triangle-splatting) - No description
-- [awesome-n8n-templates](https://github.com/metantonio/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
-- [SOA-C02-Labs](https://github.com/metantonio/SOA-C02-Labs) - SOA-C02 Hands-On Labs
-- [Open-LLM-VTuber](https://github.com/metantonio/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
-- [RealtimeTTS](https://github.com/metantonio/RealtimeTTS) - Converts text to speech in realtime
-- [OpenManusWeb](https://github.com/metantonio/OpenManusWeb) - A Web-app for OpenManus
-- [flow](https://github.com/metantonio/flow) - Working concept for low code frontend, core for code generation, scales to designs to code.
-- [3dgrut](https://github.com/metantonio/3dgrut) - Ray tracing and hybrid rasterization of Gaussian particles
-- [llmcoder](https://github.com/metantonio/llmcoder) - Open source Claude Artifacts – built with Llama 3.1 405B
-- [unsloth](https://github.com/metantonio/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
-- [awesome-mcp-servers](https://github.com/metantonio/awesome-mcp-servers) - A collection of MCP servers.
-- [openai-agents-python](https://github.com/metantonio/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
-- [Flowise](https://github.com/metantonio/Flowise) - Drag & drop UI to build your customized LLM flow
-- [HavocFramework](https://github.com/metantonio/HavocFramework) - The Havoc Framework
-- [VQASynth](https://github.com/metantonio/VQASynth) - Compose multimodal datasets 🎹
 - [react-path-finder](https://github.com/metantonio/react-path-finder) - No description
-- [Algorithms-python](https://github.com/metantonio/Algorithms-python) - Free hands-on course with the implementation (in Python) and description of several computational, mathematical and statistical algorithms.
-- [embedchain](https://github.com/metantonio/embedchain) - Data platform for LLMs - Load, index, retrieve and sync any unstructured data
-- [engine_components](https://github.com/metantonio/engine_components) - No description
+
