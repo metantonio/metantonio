@@ -15,52 +15,140 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN_WRITE }}   # token con permiso de push
 
-      - name: Install jq
-        run: sudo apt-get install -y jq
-
-      - name: List all repositories (read-only token)
+      - name: Update Projects
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN_READ }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          curl -H "Authorization: token $GH_TOKEN" \
-            "https://api.github.com/users/metantonio/repos?per_page=100" \
-            > repos.json
-
-      - name: Process repositories using read-only token
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN_READ }}
-        run: |
-          mkdir tmp
-          > tmp/projects.txt
-
-          for repo in $(jq -r '.[].name' repos.json); do
-              echo "Checking $repo"
-
-              curl -H "Authorization: token $GH_TOKEN" \
-                -f https://raw.githubusercontent.com/metantonio/$repo/main/README.md \
-                -o tmp/readme.md || continue
-
-              if grep -q "<img" tmp/readme.md; then
-                echo "- [$repo](https://github.com/metantonio/$repo)" >> tmp/projects.txt
-              fi
-          done
-
-      - name: Update README.md
-        run: |
+          pip install requests
           python3 << 'EOF'
-import re
+          import json
+          import os
+          import re
+          import requests
 
-projects = open("tmp/projects.txt").read().strip()
-readme_path = "README.md"
-content = open(readme_path).read()
+          username = "metantonio"
+          token = os.environ["GH_TOKEN"]
+          headers = {"Authorization": f"token {token}"}
 
-new_section = "## 🚀 Projects\n\n" + projects + "\n"
+          # 1. Fetch Repositories
+          print("Fetching repositories...")
+          repos_url = f"https://api.github.com/users/{username}/repos?sort=updated&per_page=100"
+          try:
+              response = requests.get(repos_url, headers=headers)
+              response.raise_for_status()
+              repos = response.json()
+          except Exception as e:
+              print(f"Error fetching repos: {e}")
+              exit(1)
 
-if "## 🚀 Projects" in content:
-    content = (
-        re.sub(r"## 🚀 Projects[\\s\\S]*?(?=\\n## |$)",
-               new_section,
-               content)
-    )
-else:
-    content += "\n" + new_section_
+          featured_repos = []
+
+          # 2. Check each repo for <img in README
+          print(f"Scanning {len(repos)} repositories...")
+          for repo in repos:
+              name = repo["name"]
+              if name == username: continue # Skip profile repo
+              
+              default_branch = repo.get("default_branch", "main")
+              readme_url = f"https://raw.githubusercontent.com/{username}/{name}/{default_branch}/README.md"
+              
+              try:
+                  r = requests.get(readme_url)
+                  if r.status_code == 200:
+                      content = r.text
+                      # Look for <img tag
+                      if "<img" in content:
+                          # Extract first image src if possible, or just use a default/placeholder logic if needed. 
+                          # For now, we just check existence to include it.
+                          # Let's try to extract the first image src for the HTML card.
+                          img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content)
+                          img_src = img_match.group(1) if img_match else ""
+                          
+                          # If relative path, make absolute
+                          if img_src and not img_src.startswith("http"):
+                              img_src = f"https://raw.githubusercontent.com/{username}/{name}/{default_branch}/{img_src}"
+                          
+                          featured_repos.append({
+                              "name": name,
+                              "url": repo["html_url"],
+                              "description": repo["description"] or "No description",
+                              "image": img_src,
+                              "topics": repo.get("topics", [])
+                          })
+              except Exception as e:
+                  print(f"Error checking {name}: {e}")
+
+          # 3. Generate Content
+
+          # Markdowns for README
+          md_lines = []
+          for repo in featured_repos:
+              md_lines.append(f"- [{repo['name']}]({repo['url']}) - {repo['description']}")
+          
+          md_content = "\n".join(md_lines)
+          
+          # HTML for index.html
+          html_cards = []
+          for repo in featured_repos:
+              tags_html = " ".join([f'<span class="tag">{t}</span>' for t in repo["topics"][:3]])
+              card = f"""
+              <a href="{repo['url']}" class="project-card" target="_blank">
+                  <div class="card-image" style="background-image: url('{repo['image']}');"></div>
+                  <div class="card-content">
+                      <h3>{repo['name']}</h3>
+                      <p>{repo['description']}</p>
+                      {tags_html}
+                  </div>
+              </a>
+              """
+              html_cards.append(card.strip())
+          
+          html_content = "\n".join(html_cards)
+
+          # 4. Update Files
+          
+          # Update README.md
+          readme_path = "README.md"
+          if os.path.exists(readme_path):
+              with open(readme_path, "r", encoding="utf-8") as f:
+                  current_md = f.read()
+              
+              new_md_section = "## 🚀 Projects\n\n" + md_content + "\n"
+              if "## 🚀 Projects" in current_md:
+                  current_md = re.sub(r"## 🚀 Projects[\s\S]*?(?=\n## |$)", new_md_section, current_md)
+              else:
+                  current_md += "\n" + new_md_section
+              
+              with open(readme_path, "w", encoding="utf-8") as f:
+                  f.write(current_md)
+              print("README.md updated.")
+
+          # Update index.html
+          index_path = "index.html"
+          if os.path.exists(index_path):
+              with open(index_path, "r", encoding="utf-8") as f:
+                  current_html = f.read()
+              
+              start_marker = "<!-- DYNAMIC PROJECTS START -->"
+              end_marker = "<!-- DYNAMIC PROJECTS END -->"
+              
+              if start_marker in current_html and end_marker in current_html:
+                  pattern = f"{re.escape(start_marker)}.*?{re.escape(end_marker)}"
+                  replacement = f"{start_marker}\n{html_content}\n{end_marker}"
+                  current_html = re.sub(pattern, replacement, current_html, flags=re.DOTALL)
+                  
+                  with open(index_path, "w", encoding="utf-8") as f:
+                      f.write(current_html)
+                  print("index.html updated.")
+              else:
+                  print("Markers not found in index.html")
+
+          EOF
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md index.html
+          git commit -m "Auto-update projects list" || echo "No changes to commit"
+          git push
