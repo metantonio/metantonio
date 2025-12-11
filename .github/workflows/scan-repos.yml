@@ -1,0 +1,66 @@
+name: Scan Repositories
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # cada día a las 3 AM
+  workflow_dispatch:
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN_WRITE }}   # token con permiso de push
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: List all repositories (read-only token)
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN_READ }}
+        run: |
+          curl -H "Authorization: token $GH_TOKEN" \
+            "https://api.github.com/users/metantonio/repos?per_page=100" \
+            > repos.json
+
+      - name: Process repositories using read-only token
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN_READ }}
+        run: |
+          mkdir tmp
+          > tmp/projects.txt
+
+          for repo in $(jq -r '.[].name' repos.json); do
+              echo "Checking $repo"
+
+              curl -H "Authorization: token $GH_TOKEN" \
+                -f https://raw.githubusercontent.com/metantonio/$repo/main/README.md \
+                -o tmp/readme.md || continue
+
+              if grep -q "<img" tmp/readme.md; then
+                echo "- [$repo](https://github.com/metantonio/$repo)" >> tmp/projects.txt
+              fi
+          done
+
+      - name: Update README.md
+        run: |
+          python3 << 'EOF'
+import re
+
+projects = open("tmp/projects.txt").read().strip()
+readme_path = "README.md"
+content = open(readme_path).read()
+
+new_section = "## 🚀 Projects\n\n" + projects + "\n"
+
+if "## 🚀 Projects" in content:
+    content = (
+        re.sub(r"## 🚀 Projects[\\s\\S]*?(?=\\n## |$)",
+               new_section,
+               content)
+    )
+else:
+    content += "\n" + new_section_
