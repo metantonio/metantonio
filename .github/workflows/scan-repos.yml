@@ -49,6 +49,12 @@ jobs:
               name = repo["name"]
               if name == username: continue # Skip profile repo
               
+              # Filter criteria: must be owner and not a fork
+              if repo.get("fork") is True:
+                  continue
+              if repo.get("owner", {}).get("login") != username:
+                  continue
+
               default_branch = repo.get("default_branch", "main")
               readme_url = f"https://raw.githubusercontent.com/{username}/{name}/{default_branch}/README.md"
               
