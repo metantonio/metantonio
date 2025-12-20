@@ -67,8 +67,8 @@ Visits since Nov/22/2025: ![Visitor Count](https://komarev.com/ghpvc/?username=m
   <!-- Sección de Proyectos -->
   <p>
     <!-- Proyecto 28: QLX mini-Orion -->
-    <a href="https://github.com/metantonio/ai-data-driven" width="200px">
-      <img src="https://raw.githubusercontent.com/metantonio/ai-data-driven/master/portada.gif" width="200px" alt="QLX mini-Orion by Metantonio" height="180"/>
+    <a href="https://github.com/metantonio/ai-data-driven/releases/latest" width="200px">
+      <img src="https://raw.githubusercontent.com/metantonio/ai-data-driven/refs/heads/master/Portada.jpeg" width="200px" alt="QLX AI-powered ML System" height="180"/>
     </a>
     <!-- Proyecto 27: Budgeting App -->
     <a href="https://budgeting-app-bxb1.onrender.com/" width="200px">
