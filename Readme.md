@@ -192,6 +192,7 @@ Visits since Nov/22/2025: ![Visitor Count](https://komarev.com/ghpvc/?username=m
 
 ## 🚀 Projects
 
+- [autocad-ai](https://github.com/metantonio/autocad-ai) - A software to control AutoCAD with natural language. You can use Ollama
 - [augmented-reality](https://github.com/metantonio/augmented-reality) - No description
 - [number-location](https://github.com/metantonio/number-location) - No description
 - [react-path-finder](https://github.com/metantonio/react-path-finder) - No description
